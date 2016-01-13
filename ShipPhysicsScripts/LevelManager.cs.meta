@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3cfe2af04598dea45a7f85c3d1c545b6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - level1: {fileID: 100000, guid: 42f15ecf2911f4c42baea769fe30e216, type: 2}
+  - level2: {fileID: 100000, guid: c1e61e32fa424454abc50bb1f80f0804, type: 2}
+  - level3: {fileID: 100000, guid: fd519bf515ace364798104ac51142aa6, type: 2}
+  - level4: {fileID: 100000, guid: 7b109cf7ee84fe3498c5bef220f184eb, type: 2}
+  - level5: {fileID: 100000, guid: 68c4fb41cf6e0034b969fe32cb336718, type: 2}
+  - level6: {fileID: 100000, guid: 42fd557c995ffa04aa507dfffae9a9bb, type: 2}
+  - level7: {fileID: 100000, guid: ee71069c9fef8454f8bb670bf358fde2, type: 2}
+  - twoWayRotatingCircle: {fileID: 100000, guid: 7173db78b92b98a4ebd1eb31cb40181f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
